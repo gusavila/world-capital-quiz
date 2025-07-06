@@ -2,6 +2,10 @@
 
 A simple quiz web application built with **Node.js**, **Express**, and **PostgreSQL**. Users are challenged to guess the capital city of a given country. The quiz tracks the score and ends when a wrong answer is submitted.
 
+## 📸 Preview
+
+![Quiz Preview](./public/images/preview.png)
+
 ## 🌍 Features
 
 - Renders country names dynamically and receives answers via form
@@ -78,10 +82,6 @@ You can use the `capitals.csv` file to populate the table manually or with a scr
 2. The user types the capital and submits the form.
 3. If the answer is correct, the score increases and a new country is shown.
 4. If incorrect, the game ends and a restart option appears.
-
-## 📸 Preview
-
-![Quiz Preview](./public/images/preview.png)
 
 ## 🧑‍🏫 Credits
 
